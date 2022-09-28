@@ -1,2 +1,9 @@
-# tcp-file-transfer-client-to-server-example
-TCP file transfer client-to-server example
+# TCP file transfer example
+
+## Client
+
+Acts as a sender.
+
+## Server
+
+Acts as a receiver.
